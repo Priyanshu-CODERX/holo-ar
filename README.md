@@ -24,12 +24,7 @@ Make sure to use Unity 2020 or higher versions for this project to work properly
 * Build the apk
 
 ## Demo
-<iframe
-    width="100%"
-	height="350px"
-    src="https://www.youtube.com/embed/cZGTRjo8q1I"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+
+[![Demo Video](https://i.ibb.co/mtnPfGg/Screenshot-2022-04-19-133154.jpg)](https://youtu.be/cZGTRjo8q1I)
+
+
